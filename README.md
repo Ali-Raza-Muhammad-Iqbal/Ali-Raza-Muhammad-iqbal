@@ -31,13 +31,14 @@
 <!-- OPEN GRAPH / SOCIAL PREVIEW METADATA (crawler-readable) -->
 <!--
   og:type        = profile
-  og:title       = Ali Raza Muhammad Iqbal — Software engineer| Java Backend Engineer | Spring Boot Developer | CS Teacher
+  og:title       = Ali Raza Muhammad Iqbal — Java Backend Engineer | Spring Boot Developer | CS Teacher
   og:description = Software Engineer building scalable Java/Spring Boot backends, REST APIs,
                    enterprise-grade microservices, and mentoring future developers.
   og:url         = https://github.com/Ali-Raza-Muhammad-Iqbal
   og:site_name   = GitHub
   og:image       = https://github.com/Ali-Raza-Muhammad-Iqbal.png
   twitter:card   = summary_large_image
+  twitter:site   = @Ali_Raza_Iqbal
   twitter:title  = Ali Raza Muhammad Iqbal — Software Engineer | Backend Developer
   twitter:description = Java • Spring Boot • REST APIs • Microservices • MySQL • PHP • CS Educator
 -->
@@ -54,10 +55,14 @@
   "url": "https://github.com/Ali-Raza-Muhammad-Iqbal",
   "image": "https://github.com/Ali-Raza-Muhammad-Iqbal.png",
   "sameAs": [
-    "https://www.linkedin.com/in/ali-raza-muhammad-iqbal",
-    "https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio",
     "https://github.com/Ali-Raza-Muhammad-Iqbal",
-    "https://github.com/Ali-Raza-Muhammad-Iqbal"
+    "https://www.linkedin.com/in/ali-raza-software-engineer1",
+    "https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio",
+    "https://www.facebook.com/AliRazaMuhammadIqbal1",
+    "https://www.instagram.com/ali_raza_muhammad_iqbal",
+    "https://x.com/Ali_Raza_Iqbal",
+    "https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal",
+    "https://www.tiktok.com/@ali_raza_muhammad_iqbal"
   ],
   "email": "mailto:Mr_Ali_Raza@yahoo.com",
   "knowsAbout": [
@@ -100,17 +105,35 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-raza-muhammad-iqbal">
+  <a href="https://www.linkedin.com/in/ali-raza-software-engineer1">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Raza-blue?style=for-the-badge&logo=linkedin" alt="Ali Raza LinkedIn Profile"/>
   </a>
   <a href="https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Ali Raza Developer Portfolio"/>
   </a>
   <a href="https://github.com/Ali-Raza-Muhammad-Iqbal">
-    <img src="https://img.shields.io/badge/GitHub-Ali--Raza--SE-black?style=for-the-badge&logo=github" alt="Ali Raza GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Ali--Raza--Muhammad--Iqbal-black?style=for-the-badge&logo=github" alt="Ali Raza GitHub"/>
   </a>
   <a href="mailto:Mr_Ali_Raza@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=yahoo" alt="Email Ali Raza"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/AliRazaMuhammadIqbal1">
+    <img src="https://img.shields.io/badge/Facebook-AliRazaMuhammadIqbal1-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Ali Raza Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ali_raza_muhammad_iqbal">
+    <img src="https://img.shields.io/badge/Instagram-ali__raza__muhammad__iqbal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ali Raza Instagram"/>
+  </a>
+  <a href="https://x.com/Ali_Raza_Iqbal">
+    <img src="https://img.shields.io/badge/X-@Ali__Raza__Iqbal-000000?style=for-the-badge&logo=x&logoColor=white" alt="Ali Raza on X (Twitter)"/>
+  </a>
+  <a href="https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal">
+    <img src="https://img.shields.io/badge/YouTube-@Ali__Raza__Muhammad__Iqbal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ali Raza YouTube Channel"/>
+  </a>
+  <a href="https://www.tiktok.com/@ali_raza_muhammad_iqbal">
+    <img src="https://img.shields.io/badge/TikTok-@ali__raza__muhammad__iqbal-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Ali Raza TikTok"/>
   </a>
 </p>
 
@@ -168,11 +191,20 @@ I go by several names online — **Ali Raza**, **Ali Raza Iqbal**, **Ali**, and 
 
 If you're looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, mentor junior developers, or collaborate on open-source initiatives — let's connect:
 
-- 💼 **Professional Network:** [LinkedIn — Ali Raza Software Engineer](https://www.linkedin.com/in/ali-raza-software-engineer1)
-- 🌐 **Interactive Portfolio:** [Ali Raza Portfolio](https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio)
-- 🐙 **GitHub (Main):** [github.com/Ali-Raza-Muhammad-Iqbal](https://github.com/Ali-Raza-Muhammad-Iqbal)
-- 🐙 **GitHub (Alt):** [github.com/Ali-Raza-Muhammad-Iqbal](https://github.com/Ali-Raza-Muhammad-Iqbal)
-- 📧 **Direct Inbox:** [Mr_Ali_Raza@yahoo.com](mailto:Mr_Ali_Raza@yahoo.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ali-raza-software-engineer1](https://www.linkedin.com/in/ali-raza-software-engineer1)
+- 🌐 **Portfolio:** [Ali-Raza-Muhammad-Iqbal.github.io/portfolio](https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio)
+- 🐙 **GitHub:** [github.com/Ali-Raza-Muhammad-Iqbal](https://github.com/Ali-Raza-Muhammad-Iqbal)
+- 📧 **Email:** [Mr_Ali_Raza@yahoo.com](mailto:Mr_Ali_Raza@yahoo.com)
+
+### 🌍 Find Me on Social Media
+
+| Platform | Handle | Link |
+|---|---|---|
+| 📘 Facebook | @AliRazaMuhammadIqbal1 | [facebook.com/AliRazaMuhammadIqbal1](https://www.facebook.com/AliRazaMuhammadIqbal1) |
+| 📸 Instagram | @ali_raza_muhammad_iqbal | [instagram.com/ali_raza_muhammad_iqbal](https://www.instagram.com/ali_raza_muhammad_iqbal) |
+| 🐦 X (Twitter) | @Ali_Raza_Iqbal | [x.com/Ali_Raza_Iqbal](https://x.com/Ali_Raza_Iqbal) |
+| ▶️ YouTube | @Ali_Raza_Muhammad_Iqbal | [youtube.com/@Ali_Raza_Muhammad_Iqbal](https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal) |
+| 🎵 TikTok | @ali_raza_muhammad_iqbal | [tiktok.com/@ali_raza_muhammad_iqbal](https://www.tiktok.com/@ali_raza_muhammad_iqbal) |
 
 > 💡 **Open to:** Full-time backend roles • Freelance projects • Remote contracts • CS tutoring engagements • Open-source collaboration
 
