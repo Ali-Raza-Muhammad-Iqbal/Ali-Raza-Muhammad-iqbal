@@ -56,7 +56,7 @@
   "image": "https://github.com/Ali-Raza-Muhammad-Iqbal.png",
   "sameAs": [
     "https://github.com/Ali-Raza-Muhammad-Iqbal",
-    "https://www.linkedin.com/in/ali-raza-software-engineer1",
+    "https://www.linkedin.com/in/ali-raza-muhammad-iqbal",
     "https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio",
     "https://www.facebook.com/AliRazaMuhammadIqbal1",
     "https://www.instagram.com/ali_raza_muhammad_iqbal",
